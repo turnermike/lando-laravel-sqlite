@@ -1,0 +1,4 @@
+name: lando-laravel
+recipe: laravel
+config:
+  webroot: app/public
